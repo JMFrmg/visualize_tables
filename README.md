@@ -28,5 +28,5 @@ python -m flask run --debug
 ```
 
 ## Routes
-/dataviz/all-data : affiche les données des quatre tables (sans les ids)
+/dataviz/all-data : affiche les données des quatre tables (sans les ids)  
 /dataviz/detail/nom_table : affiche les données spécifiques à une table (avec les ids)
